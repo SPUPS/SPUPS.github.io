@@ -1,9 +1,0 @@
-img {
-    width: 550px; /* You can set the dimensions to whatever you want */
-    height: 350px;
-    object-fit: cover;
-}
-
-p {
-    font-family: "Courier New";
-}
